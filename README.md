@@ -11,7 +11,7 @@ This analysis aims to find the optimum setup of renewable energy facilities in t
 - Calculating the LCOE and developing scenario analysis to assess the optimum system setting.
 
 ## Key Findings
-<img src="Irradiance%20in%20Traverse.jpg)">
+<img src="Irradiance in Traverse.jpg">
 
 #### Specific Investment Cost (SIC):
 
