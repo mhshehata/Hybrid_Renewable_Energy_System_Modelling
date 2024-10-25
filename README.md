@@ -50,28 +50,10 @@ Government policies, market demand, and the availability of renewable energy sou
 
 <img src="RES_CO2.PNG">
 
-### Key Points:
+### Key Result
 
-#### Required Renewable Energy Share: 
-The analysis indicates that a 64% share of renewables in the energy mix is necessary. This suggests a significant shift towards cleaner energy sources is required.
-
-#### CO₂ Tax Requirement: 
-A CO₂ tax of 77.5 cent€/kgCO₂ is proposed. This carbon pricing mechanism aims to equalize the LCOH for both processes, making the electrolyis process more competitive.
-
-### Implications:
-
-#### Transition to Renewables: 
-Achieving a 64% renewable energy share will necessitate substantial investments in renewable energy technologies like solar, wind, and hydropower.
-
-#### Economic Impact: 
-Implementing a CO₂ tax could have economic implications, potentially leading to higher energy costs for consumers and businesses. However, it can also drive innovation and investment in low-carbon technologies.
-
-#### Environmental Benefits: 
-Both the increased share of renewables and the CO₂ tax can contribute to reducing greenhouse gas emissions and mitigating climate change.
-
-#### Policy Implications: 
-Achieving these goals will likely require a combination of policies, including subsidies for renewable energy, regulations to reduce carbon emissions, and international cooperation.
-Conclusion:
+The optimum setup in terms of the number of wind turbines, PV elements, and storage capacity can achieve a reasonable coverage ratio of 66-70% and LCOE of 0.12 €/kWh, which is equivalent to that of a conventional electricity power plant.
 
 ## Final Thoughts
-While steam-methane reforming currently offers a more cost-effective option, the environmental benefits of electrolysis make it a promising alternative, especially as renewable energy sources become more accessible and affordable. The future of hydrogen production will likely involve a mix of both methods, with the optimal choice depending on specific factors such as location, energy costs, and environmental regulations.
+- The ENERCON E-115 wind turbine was chosen for its power output and efficiency, which helped reduce wind shear and turbulent flow. While installation costs were high, the LCOW was acceptable. Other turbines had either too much unused energy or high installation costs.
+- The chosen PV elements 
