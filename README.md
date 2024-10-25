@@ -10,11 +10,16 @@ This analysis aims to find the optimum setup of renewable energy facilities in t
 - Calculating the LCOE and developing scenario analysis to assess the optimum system setting.
 
 ## Key Findings
+
+#### Traverse, Michigan
+
 <img src="Irradiance in Traverse.jpg">
 
-<img src="Irradiance in Tucson.jpg">
-
 <img src="CR%20vs.%20PV%20%40WT%20-%20Traverse%2C%20Michigan.jpg">
+
+
+#### Tucson, Arizona
+<img src="Irradiance in Tucson.jpg">
 
 <img src="CR%20vs.%20PV%20%40WT%20-%20Tucson%2C%20Arizona.jpg">
 
