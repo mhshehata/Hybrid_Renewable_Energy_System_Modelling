@@ -52,8 +52,9 @@ Government policies, market demand, and the availability of renewable energy sou
 
 ### Key Result
 
-The optimum setup in terms of the number of wind turbines, PV elements, and storage capacity can achieve a reasonable coverage ratio of 66-70% and LCOE of 0.12 €/kWh, which is equivalent to that of a conventional electricity power plant.
+The optimum setup for the number of wind turbines, PV elements, and storage capacity can achieve a reasonable coverage ratio of 66-70% and LCOE of 0.12 €/kWh, equivalent to that of a conventional electricity power plant.
 
 ## Final Thoughts
 - The ENERCON E-115 wind turbine was chosen for its power output and efficiency, which helped reduce wind shear and turbulent flow. While installation costs were high, the LCOW was acceptable. Other turbines had either too much unused energy or high installation costs.
-- The chosen PV elements 
+- The chosen PV elements were found to have relatively low power output compared to the wind turbines and their costs. Despite this, a PV facility was considered to contribute to the coverage ratio on days with no wind or significant irradiance. It was suggested that the PV elements should be replaced with more efficient ones, especially in Tucson due to its higher irradiance than Traverse.
+- The storage system was limited by installation costs, which negatively affected the LCOE. Technological advancements in electricity storage were expected to allow for better utilization of unused energy. Mechanical storage and consumer household storage versus utility-scale storage were suggested for further feasibility and economic analysis.
