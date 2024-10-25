@@ -13,6 +13,10 @@ This analysis aims to find the optimum setup of renewable energy facilities in t
 ## Key Findings
 <img src="Irradiance in Traverse.jpg">
 
+<img src="Irradiance in Tucson.jpg">
+
+<img src="CR%20vs.%20PV%20%40WT%20-%20Traverse%2C%20Michigan.jpg">
+
 #### Specific Investment Cost (SIC):
 
 Electrolysis has a significantly higher SIC (1000 €/kW) compared to steam-methane reforming (530 €/kW). This suggests that the initial capital investment required for electrolysis is substantially greater.
