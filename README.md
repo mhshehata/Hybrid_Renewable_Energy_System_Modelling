@@ -1,1 +1,1 @@
-# Hybrid_Renewable_Energy_System_Modelling
+# Hybrid Renewable Energy System Modelling
