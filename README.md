@@ -1,6 +1,5 @@
 # Hybrid Renewable Energy System Modelling & Analysis
 
-<img src="H2.jpg">
 
 ## Description
 This analysis aims to find the optimum setup of renewable energy facilities in terms of wind turbines, photovoltaics, and storage capacity in two different US locations (Traverse, Michigan and Tucson, Arizona).
