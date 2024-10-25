@@ -12,45 +12,22 @@ This analysis aims to find the optimum setup of renewable energy facilities in t
 ## Key Findings
 
 #### Traverse, Michigan
-
+- The optimal setup of PV panels for the given location and available surface area was considered. It was found that at an elevation angle of up to 15°, an irradiance of 120 kWh/m² could be achieved for all azimuth angles. Increasing the elevation angle to accommodate more panels would result in lower irradiance.
 <img src="Irradiance in Traverse.jpg">
 
+- The optimal mix of PV panels, wind turbines, and storage capacity was determined based on coverage ratio and economic analysis. It was found that 12 wind turbines without PV panels could achieve a coverage ratio of 60%, and each additional turbine increased the coverage ratio by 1%. This information, along with load and time-of-day data, was used to identify the most suitable combination of components.
 <img src="CR%20vs.%20PV%20%40WT%20-%20Traverse%2C%20Michigan.jpg">
 
 
 #### Tucson, Arizona
+- The optimal setup of PV panels for the given location and available surface area was considered. It was found that at an elevation angle of up to 15°, irradiance of 180 kWh/m² could be achieved for all azimuth angles. Increasing the elevation angle to 45° at azimuths from 0-45° could achieve 200 kW/m². This suggests that Tucson has better geographical conditions for power yield and flexibility compared to Traverse.
 <img src="Irradiance in Tucson.jpg">
 
+- It was found that 19 turbines were sufficient to achieve around 60% coverage ratio at the given location. Adding more turbines provided minimal increase in coverage. Traverse was concluded to be geographically better than Tucson in terms of wind power yield and flexibility.
 <img src="CR%20vs.%20PV%20%40WT%20-%20Tucson%2C%20Arizona.jpg">
 
-#### Specific Investment Cost (SIC):
 
-Electrolysis has a significantly higher SIC (1000 €/kW) compared to steam-methane reforming (530 €/kW). This suggests that the initial capital investment required for electrolysis is substantially greater.
-
-#### Levelized Cost of Hydrogen (LCOH):
-
-Electrolysis also has a higher LCOH (30 cent€/kWh) than steam-methane reforming (7.5 cent€/kWh). This indicates that the overall cost of producing hydrogen over its lifetime is significantly lower for steam-methane reforming.
-
-#### CO₂ Emissions:
-
-Electrolysis produces significantly lower CO₂ emissions (11.5 Mn tCO₂e) compared to steam-methane reforming (5.8 Mn tCO₂). This makes electrolysis a more environmentally friendly option.
-
-### Implications:
-
-#### Cost vs. Environmental Impact:
-The choice between these two methods involves a trade-off between cost and environmental impact. Steam-methane reforming offers a lower cost but has higher emissions, while electrolysis has higher costs but lower emissions.
-
-#### Technological Advancements: 
-As technology advances, the costs and efficiencies of both methods may change. Future developments could potentially reduce the cost gap between electrolysis and steam-methane reforming.
-
-#### Policy and Market Factors: 
-Government policies, market demand, and the availability of renewable energy sources can also influence the choice between these methods. For example, incentives for renewable energy can make electrolysis more economically attractive.
-
----------------------------------------------------------------
-
-<img src="RES_CO2.PNG">
-
-### Key Result
+## Key Result
 
 The optimum setup for the number of wind turbines, PV elements, and storage capacity can achieve a reasonable coverage ratio of 66-70% and LCOE of 0.12 €/kWh, equivalent to that of a conventional electricity power plant.
 
